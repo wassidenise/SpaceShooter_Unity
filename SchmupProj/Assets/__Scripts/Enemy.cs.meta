@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ceacf1c2f2533334ea61017e1c21835d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - efxSource: {instanceID: 0}
+  - enemySound1: {fileID: 8300000, guid: e7cb68da88d8b274eb008f9a214589d8, type: 3}
+  - enemySound2: {fileID: 8300000, guid: a6b9fe185a1239346a0cfd37c93aeee9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
